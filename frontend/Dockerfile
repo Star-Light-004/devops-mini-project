@@ -1,4 +1,6 @@
 # Build stage
+
+# Commit 5: Dockerfile comment for DevOps mini project
 FROM node:18-alpine AS build
 
 WORKDIR /app
