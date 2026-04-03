@@ -22,7 +22,7 @@ def about(request):
     return Response({
         "ho_ten": "Trương Đình Bắc",
         "ma_so_sinh_vien": "2251220219",
-        "lop": "21IT1",
+        "lop": "22CT1",
         "app_name": os.getenv('APP_NAME', 'Student Management App'),
         "version": "1.0.0"
     })
