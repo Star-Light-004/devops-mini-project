@@ -7,6 +7,8 @@ from .models import Task
 from .serializers import TaskSerializer
 
 
+# Commit 2: Backend comment for DevOps mini project
+
 @api_view(['GET'])
 def health(request):
     return Response({
