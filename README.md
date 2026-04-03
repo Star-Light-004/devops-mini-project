@@ -11,6 +11,8 @@
 | Database | PostgreSQL 15 |
 | Container | Docker + Docker Compose |
 
+# Commit 4: Update README for DevOps mini project
+
 ## 🚀 Chạy nhanh bằng Docker Compose
 
 ```bash
