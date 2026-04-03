@@ -4,6 +4,8 @@ import TasksPage from './pages/TasksPage';
 import AboutPage from './pages/AboutPage';
 import './App.css';
 
+
+// Commit 3: Frontend comment for DevOps mini project
 function Navbar() {
   const location = useLocation();
   return (
